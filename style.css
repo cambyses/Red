@@ -192,7 +192,9 @@ hr {
     display:block; 
 margin-left:0px;margin-bottom:0px;margin-top:363px;}
 
-/* SmartPhone ----------- */
+/*------------------------------------------- MOBILE ----------------------------------------- */
+
+
 @media
 only screen and (max-device-width: 600px), screen and (max-width: 600px) {
 .box2, .box1 {width:90%}
